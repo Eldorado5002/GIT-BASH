@@ -1,2 +1,5 @@
 Hi 
 I am Shiva Shankar
+
+I am a student of KMIT
+I am learning Dev Ops
